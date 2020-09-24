@@ -1,0 +1,4 @@
+site_name: Aline Noronha Chef
+nav:
+  - 'Home': index.md
+  - 'Receitas': receitas.md
